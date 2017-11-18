@@ -3,3 +3,4 @@ bar
 master
 test
 master
+conflict
